@@ -19,3 +19,4 @@
 #50 legs
 
 #Create a python script to solve this problem.
+print("hello")
